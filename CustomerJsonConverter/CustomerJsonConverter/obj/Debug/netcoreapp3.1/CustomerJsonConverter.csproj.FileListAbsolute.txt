@@ -1,0 +1,13 @@
+C:\Users\cses0\source\repos\CustomJsonConverter\CustomerJsonConverter\CustomerJsonConverter\bin\Debug\netcoreapp3.1\CustomerJsonConverter.exe
+C:\Users\cses0\source\repos\CustomJsonConverter\CustomerJsonConverter\CustomerJsonConverter\bin\Debug\netcoreapp3.1\CustomerJsonConverter.deps.json
+C:\Users\cses0\source\repos\CustomJsonConverter\CustomerJsonConverter\CustomerJsonConverter\bin\Debug\netcoreapp3.1\CustomerJsonConverter.runtimeconfig.json
+C:\Users\cses0\source\repos\CustomJsonConverter\CustomerJsonConverter\CustomerJsonConverter\bin\Debug\netcoreapp3.1\CustomerJsonConverter.runtimeconfig.dev.json
+C:\Users\cses0\source\repos\CustomJsonConverter\CustomerJsonConverter\CustomerJsonConverter\bin\Debug\netcoreapp3.1\CustomerJsonConverter.dll
+C:\Users\cses0\source\repos\CustomJsonConverter\CustomerJsonConverter\CustomerJsonConverter\bin\Debug\netcoreapp3.1\CustomerJsonConverter.pdb
+C:\Users\cses0\source\repos\CustomJsonConverter\CustomerJsonConverter\CustomerJsonConverter\obj\Debug\netcoreapp3.1\CustomerJsonConverter.csprojAssemblyReference.cache
+C:\Users\cses0\source\repos\CustomJsonConverter\CustomerJsonConverter\CustomerJsonConverter\obj\Debug\netcoreapp3.1\CustomerJsonConverter.AssemblyInfoInputs.cache
+C:\Users\cses0\source\repos\CustomJsonConverter\CustomerJsonConverter\CustomerJsonConverter\obj\Debug\netcoreapp3.1\CustomerJsonConverter.AssemblyInfo.cs
+C:\Users\cses0\source\repos\CustomJsonConverter\CustomerJsonConverter\CustomerJsonConverter\obj\Debug\netcoreapp3.1\CustomerJsonConverter.csproj.CoreCompileInputs.cache
+C:\Users\cses0\source\repos\CustomJsonConverter\CustomerJsonConverter\CustomerJsonConverter\obj\Debug\netcoreapp3.1\CustomerJsonConverter.dll
+C:\Users\cses0\source\repos\CustomJsonConverter\CustomerJsonConverter\CustomerJsonConverter\obj\Debug\netcoreapp3.1\CustomerJsonConverter.pdb
+C:\Users\cses0\source\repos\CustomJsonConverter\CustomerJsonConverter\CustomerJsonConverter\obj\Debug\netcoreapp3.1\CustomerJsonConverter.genruntimeconfig.cache
